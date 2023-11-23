@@ -43,5 +43,5 @@
 	url = https://github.com/nasa/tblCRCTool.git
   branch = main
 [submodule "apps/rb"]
-	path = apps/rb
+	path = apps/pb
 	url = https://github.com/mbacch/RB
